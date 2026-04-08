@@ -1,1 +1,9 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #ec0062;
+    font-family:"Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#second {
+    color:#00a5ec;
+    font-size: 36px;
+}
